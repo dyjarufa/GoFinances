@@ -4,8 +4,8 @@
   <br>
 
   <h1 align="center">
-      <img width="400" src="src\assets\listagem.png" />
-      <img width="400" height="230" src="src\assets\importar.png"/>
+      <img width="400" src="https://github.com/dyjarufa/GoFinances/blob/master/src/assets/importar.PNG" />
+      <img width="400" height="230" src="https://github.com/dyjarufa/GoFinances/blob/master/src/assets/listagem.PNG"/>
 
   </h1>
 
